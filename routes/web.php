@@ -17,7 +17,7 @@ Route::get('/', function () {
     return view('landing.page.index');
 });
 
-Route::get('/tk-kristen-pirngadi-layanan', function () {
+Route::get('/tk-kristen-pirngadi-fasilitas', function () {
     return view('landing.page.service');
 });
 

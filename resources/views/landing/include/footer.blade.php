@@ -34,11 +34,11 @@
           </div>
           <!--/ col-lg -->
           <div class="col-lg-4 text-center res-margin">
-             <h5>Contact Us</h5>
+             <h5>Kontak Kami</h5>
              <ul class="list-unstyled mt-3">
-                <li class="mb-1"><i class="fas fa-phone margin-icon "></i>(123) 456-789</li>
-                <li class="mb-1"><i class="fas fa-envelope margin-icon"></i><a href="mailto:email@yoursite.com">email@yoursite.com</a></li>
-                <li><i class="fas fa-map-marker margin-icon"></i>Street Name 123 - New York </li>
+                <li class="mb-1"><i class="fas fa-phone margin-icon "></i>+62 811-3400-986</li>
+                <li class="mb-1"><i class="fas fa-envelope margin-icon"></i><a href="mailto:email@yoursite.com">sekretariat@pirngadi.sch.idm</a></li>
+                <li><i class="fas fa-map-marker margin-icon"></i>Jl.Pirngadi  No 4- 6 - Surabaya </li>
              </ul>
              <!--/ul -->
              <!-- Start Social Links -->
@@ -51,12 +51,12 @@
           </div>
           <!--/ col-lg -->
           <div class="col-lg-4 text-center">
-             <h5>Working Hours</h5>
+             <h5>Aktivitas Sekolah</h5>
              <ul class="list-unstyled mt-3">
-                <li class="mb-1">Monday to Friday</li>
-                <li class="mb-1">Open from 9am - 6pm</li>
-                <li class="mb-1">Holidays - Closed</li>
-                <li>Weekends - Closed</li>
+                <li class="mb-1">Senin - Jumat</li>
+                <li class="mb-1">Open 8 Pagi  - 3sore</li>
+                <li class="mb-1">Saptu - Closed</li>
+                <li>Minggu - Closed</li>
              </ul>
              <!--/ul -->
           </div>

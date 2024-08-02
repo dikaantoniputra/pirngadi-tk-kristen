@@ -22,10 +22,10 @@ Bukti Pembayaran
              <div class="ls-l header-wrapper " data-ls="offsetyin:150; durationin:700; delayin:200; easingin:easeOutQuint; rotatexin:20; scalexin:1.4; durationout:400;">
                 <div class="header-text text-light">
                    <span class="text-light">Welcome to</span> 
-                   <h1>ABC TOTS</h1>
+                   <h1>Montessori Kindergarten</h1>
                    <!--the div below is hidden on small screens  -->
                    <div class="hidden-small">
-                      <p class="header-p">We offer high quality Daycare Services, contact us or visit us today for more information</p>
+                      <p class="header-p">We offer high quality Montessori Kindergarten Services, contact us or visit us today for more information</p>
                       <a class="btn btn-quaternary" href="contact.html">Contact us</a>
                    </div>
                    <!--/d-none  -->
@@ -43,7 +43,7 @@ Bukti Pembayaran
              <div class="ls-l header-wrapper " data-ls="offsetyin:150; durationin:700; delayin:200; easingin:easeOutQuint; rotatexin:20; scalexin:1.4;durationout:400;">
                 <div class="header-text text-light">
                    <span class="text-light">Fun & Safe</span> 
-                   <h1>Daycare</h1>
+                   <h1>Montessori Kindergarten</h1>
                    <!--the div below is hidden on small screens  -->
                    <div class="hidden-small">
                       <p class="header-p">Get inspired by seeing the children excited about learning, book a visit and experience our curriculum in action</p>
@@ -117,9 +117,9 @@ Bukti Pembayaran
                 <!-- front of card  -->  
                 <div class="card bg-secondary text-light ">
                    <div class="p-5">
-                      <h5 class="card-title text-light">Licensed Child Care</h5>
+                      <h5 class="card-title text-light">Montesori</h5>
                       <p class="card-text">
-                         In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat lorem
+                        metode pembelajaran yang membebaskan anak untuk memilih aktivitas sesuai minat dan bakatnya
                       </p>
                       <!-- button show on mobile only,where flip is disabled -->
                       <a href="contact.html" class="btn d-lg-none">Contact us</a>
@@ -133,9 +133,8 @@ Bukti Pembayaran
                 <div class="card bg-secondary text-light card-back">
                    <div class="card-body d-flex justify-content-center align-items-center">
                       <div class="p-4">
-                         <h5 class="card-title text-light">Since 2004</h5>
-                         <p class="card-text">enas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. 
-                            In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat
+                         <h5 class="card-title text-light">Montesori</h5>
+                         <p class="card-text">Montessori adalah metode pembelajaran yang menitikberatkan pada pengembangan potensi individu dengan memberikan kebebasan belajar dan menggunakan peralatan belajar yang sesuai dengan tingkat perkembangan siswa.
                          </p>
                          <!-- button -->
                          <a href="contact.html" class="btn">contact us</a>
@@ -155,9 +154,9 @@ Bukti Pembayaran
                 <!-- front of card  -->  
                 <div class="card bg-primary text-light">
                    <div class="p-5">
-                      <h5 class="card-title text-light">High Quality learning</h5>
+                      <h5 class="card-title text-light">Kurikulum Merdeka</h5>
                       <p class="card-text">
-                         In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat lorem
+                        pendidikan yang menekankan pada pembelajara pada pengembangan pribadi dan sosial peserta didik. 
                       </p>
                       <!-- button show on mobile only,where flip is disabled -->
                       <a href="services.html" class="btn d-lg-none">Our Services</a>
@@ -171,12 +170,10 @@ Bukti Pembayaran
                 <div class="card bg-primary text-light card-back">
                    <div class="card-body d-flex justify-content-center align-items-center">
                       <div class="p-4">
-                         <h5 class="card-title text-light">Quality daycare</h5>
-                         <p class="card-text">enas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. 
-                            In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat
+                         <h5 class="card-title text-light">Kurikulum Merdeka</h5>
+                         <p class="card-text">Kurikulum Merdeka adalah sebuah pendekatan pendidikan yang menekankan pada pembelajaran yang lebih kontekstual, berbasis kompetensi, dan berfokus pada pengembangan pribadi dan sosial peserta didik. Pendekatan Bermain: Kurikulum Merdeka mengakui pentingnya bermain dalam pembelajaran anak-anak
                          </p>
-                         <!-- button -->
-                         <a href="services.html" class="btn">Our Services</a>
+                        
                       </div>
                       <!-- /p-4 -->
                    </div>
@@ -193,9 +190,9 @@ Bukti Pembayaran
                 <!-- front of card  -->  
                 <div class="card bg-tertiary text-light">
                    <div class="p-5">
-                      <h5 class="card-title text-light">Talented Staff</h5>
+                      <h5 class="card-title text-light">Pengajar Profesional</h5>
                       <p class="card-text">
-                         In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat lorem
+                        pengajar yang menyusun materi serta kegiatan yang kreatif, mendidik dan mengajar siswa.
                       </p>
                       <!-- button show on mobile only,where flip is disabled -->
                       <a href="team.html" class="btn d-lg-none">Our Team</a>
@@ -209,9 +206,8 @@ Bukti Pembayaran
                 <div class="card bg-tertiary text-light card-back">
                    <div class="card-body d-flex justify-content-center align-items-center">
                       <div class="p-4">
-                         <h5 class="card-title text-light">Meet our Staff</h5>
-                         <p class="card-text">enas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. 
-                            In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat
+                         <h5 class="card-title text-light">Pengajar Profesioal</h5>
+                         <p class="card-text">dapat menyusun materi serta kegiatan yang kreatif, mendidik dan mengajar siswa serta menganalisis perkembangan anak didik sesuai tahapanperkembangannya
                          </p>
                          <!-- button -->
                          <a href="team.html" class="btn">Our Team</a>
@@ -234,16 +230,15 @@ Bukti Pembayaran
        <div class="container">
           <!-- section heading -->  
           <div class="section-heading text-center">
-             <h2>About Us</h2>
-             <p class="subtitle">Get to know us</p>
+             <h2>Tentang Kami</h2>
+             <p class="subtitle">Yuk Kenal Kami</p>
           </div>
           <!-- /section-heading -->
           <div class="row">
              <div class="col-lg-7 ">
-                <h3>Our Mission</h3>
-                <p class="mt-4 res-margin">Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecena Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                <p>Nec elementum ipsum convall. Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecen Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall Maecenas at arcu risus scelerisque laoree.</p>
-                <a href="contact.html" class="btn btn-secondary ">Contact us</a>
+                <h3>SEJARAH SINGKAT </h3>
+                <P>Pada tanggal 1 Agustus 1957, berdirilah Taman Kanak-kanak Kristen Pirngadi (Montessori Kindergarten), sebuah lembaga pendidikan yang didirikan dengan tujuan mulia untuk memberikan pendidikan dasar yang berkualitas bagi anak-anak. Sejak awal pendiriannya, TK Kristen Pirngadi (Montessori Kindergarten) telah berkomitmen untuk menanamkan nilai-nilai keagamaan, moral, dan akademis yang kuat, membentuk fondasi kokoh bagi perkembangan karakter dan pengetahuan anak-anak didiknya. Dengan semangat dan dedikasi yang tinggi dari para pendidik dan staf, TK Kristen Pirngadi terus berusaha menciptakan lingkungan belajar yang menyenangkan dan inspiratif, sehingga setiap anak dapat tumbuh dan berkembang dengan optimal.</P>
+                <a href="contact.html" class="btn btn-secondary ">Kontak Kami</a>
              </div>
              <!-- /col-lg -->
              <div class="col-lg-5 res-margin">
@@ -254,73 +249,7 @@ Bukti Pembayaran
              </div>
              <!-- /col-lg -->
           </div>
-          <!-- /row -->
-          <h3 class="mt-5 text-center">What Parents say:</h3>
-          <div class="row">
-             <!-- testimonials -->
-             <!-- testimonial carousel -->
-             <div class="carousel-2items owl-carousel owl-theme col-md-12">
-                <!-- testimonial -->
-                <div class="testimonial">
-                   <div class="content">
-                      <p class="description">
-                         Scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.                        
-                      </p>
-                   </div>
-                   <!-- /content -->
-                   <div class="testimonial-pic">
-                      <img src="img/team/team1.jpg" class="img-fluid" alt="">
-                   </div>
-                   <!-- /testimonial-pic -->
-                   <div class="testimonial-review">
-                      <h5 class="testimonial-title">Lucianna Smith</h5>
-                      <span class="post">Teacher</span>
-                   </div>
-                   <!-- /testimonial-review -->
-                </div>
-                <!-- /testimonial -->
-                <!-- testimonial -->
-                <div class="testimonial">
-                   <div class="content">
-                      <p class="description">
-                         Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.                        
-                      </p>
-                   </div>
-                   <!-- /content -->
-                   <div class="testimonial-pic">
-                      <img src="img/team/team2.jpg" class="img-fluid" alt="">
-                   </div>
-                   <!-- /testimonial-pic -->
-                   <div class="testimonial-review">
-                      <h5 class="testimonial-title">John Sadana</h5>
-                      <span class="post">Doctor</span>
-                   </div>
-                   <!-- /testimonial-review -->
-                </div>
-                <!-- /testimonial -->
-                <!-- testimonial -->
-                <div class="testimonial">
-                   <div class="content">
-                      <p class="description">
-                         Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.                        
-                      </p>
-                   </div>
-                   <!-- /content -->
-                   <div class="testimonial-pic">
-                      <img src="img/team/team3.jpg" class="img-fluid" alt="">
-                   </div>
-                   <!-- /testimonial-pic -->
-                   <div class="testimonial-review">
-                      <h5 class="testimonial-title">Jane Janeth</h5>
-                      <span class="post">Librarian</span>
-                   </div>
-                   <!-- /testimonial-review -->
-                </div>
-                <!-- /testimonial -->
-             </div>
-             <!-- /owl-testimonial -->      
-          </div>
-          <!-- /row -->
+          
        </div>
        <!-- /container-->
        <!-- whale in water scene -->
@@ -342,13 +271,13 @@ Bukti Pembayaran
        <div class="container">
           <!-- section heading -->  
           <div class="section-heading text-center">
-             <h2>Our Features</h2>
-             <p class="subtitle">Benefits for you</p>
+             <h2>TK KRISTEN PIRNGADI</h2>
+             <p class="subtitle">PROFESIONAL</p>
           </div>
           <!-- /section-heading -->
           <!-- features -->
           <div class="row ">
-             <div class="col-lg-6">
+             <div class="col-lg-8">
                 <div class="row ">
                    <div class="col-md-6 col-lg-6">
                       <!-- feature -->
@@ -357,8 +286,9 @@ Bukti Pembayaran
                             <!-- icon -->
                             <i class="flaticon-maternity text-primary"></i>
                          </div>
-                         <h5>Safe Enviroment</h5>
-                         <p>Etiam rhoncus leo a dolor placerat, nec elem entum ipsum convall.</p>
+                         <h5>Lingkungan yang Aman</h5>
+                         <p>
+                           Lingkungan aman di taman kanak-kanak dapat belajar dan bermain tanpa merasa takut atau terancam. </p>
                       </div>
                       <!-- /feature-with-icon-->
                       <!-- feature -->
@@ -367,8 +297,8 @@ Bukti Pembayaran
                             <!-- icon -->
                             <i class="flaticon-open-book-1 text-primary"></i>
                          </div>
-                         <h5>Educational activities</h5>
-                         <p>Etiam rhoncus leo a dolor placerat, nec elem entum ipsum convall.</p>
+                         <h5>Kegiatan pendidikan  montesori</h5>
+                         <p>Kegiatan pendidikan Montessori adalah serangkaian aktivitas yang dirancang untuk mendukung perkembangan holistik anak, mencakup aspek kognitif, sosial, emosional, dan fisik. </p>
                       </div>
                       <!-- /feature-with-icon-->
                    </div>
@@ -379,8 +309,8 @@ Bukti Pembayaran
                             <!-- icon -->
                             <i class="flaticon-classroom-1 text-primary"></i>
                          </div>
-                         <h5>Qualified teachers</h5>
-                         <p>Etiam rhoncus leo a dolor placerat, nec elem entum ipsum convall.</p>
+                         <h5>Guru yang berkualifikasi</h5>
+                         <p>Guru yang berkualifikasi adalah pilar utama dalam dunia pendidikan, terutama di tingkat dasar dan menengah. </p>
                       </div>
                       <!-- /feature-with-icon-->
                       <!-- feature -->
@@ -389,8 +319,8 @@ Bukti Pembayaran
                             <!-- icon -->
                             <i class="flaticon-baby-boy text-primary"></i>
                          </div>
-                         <h5>Infant care</h5>
-                         <p>Etiam rhoncus leo a dolor placerat, nec elem entum ipsum convall.</p>
+                         <h5>Perawatan Anak</h5>
+                         <p>memastikan bahwa anak-anak tumbuh dan berkembang dalam lingkungan yang sehat, aman, dan mendukung. </p>
                       </div>
                       <!-- /feature-with-icon-->
                    </div>
@@ -399,7 +329,7 @@ Bukti Pembayaran
                 <!-- /row-->
              </div>
              <!-- /col-l -->
-             <div class="col-lg-6 features-bg">
+             <div class="col-lg-4 features-bg">
                 <!-- image -->
                 <img src="img/features.png" alt="" class="img-fluid"  data-aos="zoom-out"   data-aos-delay="300"/>
              </div>
@@ -415,8 +345,8 @@ Bukti Pembayaran
        <div class="container pb-5">
           <!-- section heading -->  
           <div class="section-heading text-center">
-             <h2>Our Services</h2>
-             <p class="subtitle">what we offer</p>
+             <h2>Fasilitas</h2>
+             <p class="subtitle">Ruang Lingkup TK</p>
           </div>
           <!-- /section heading -->
           <!-- row -->
@@ -426,11 +356,11 @@ Bukti Pembayaran
                 <div class="tabs-with-icon">
                    <nav>
                       <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                         <a class="nav-item nav-link active" id="tab1-tab" data-toggle="tab" href="#tab1"><i class="flaticon-abc-block"></i>Daycare</a>
-                         <a class="nav-item nav-link" id="tab2-tab" data-toggle="tab" href="#tab2" ><i class="flaticon-kids-1"></i>Summer Camp</a>
-                         <a class="nav-item nav-link" id="tab3-tab" data-toggle="tab" href="#tab3" ><i class="flaticon-smiling-baby"></i>Infant care</a>
-                         <a class="nav-item nav-link" id="tab4-tab" data-toggle="tab" href="#tab4"><i class="flaticon-blackboard"></i>Classes</a>
-                         <a class="nav-item nav-link" id="tab5-tab" data-toggle="tab" href="#tab5" ><i class="flaticon-kids"></i>Activities</a>
+                         <a class="nav-item nav-link active" id="tab1-tab" data-toggle="tab" href="#tab1"><i class="flaticon-abc-block"></i>Tempat Bermain</a>
+                         <a class="nav-item nav-link" id="tab2-tab" data-toggle="tab" href="#tab2" ><i class="flaticon-kids-1"></i>Halaman Bermain</a>
+                         <a class="nav-item nav-link" id="tab3-tab" data-toggle="tab" href="#tab3" ><i class="flaticon-smiling-baby"></i>Uks & Tempat Tidur</a>
+                         <a class="nav-item nav-link" id="tab4-tab" data-toggle="tab" href="#tab4"><i class="flaticon-blackboard"></i>Kelas</a>
+                         <a class="nav-item nav-link" id="tab5-tab" data-toggle="tab" href="#tab5" ><i class="flaticon-kids"></i>Ruang Aktivitas</a>
                       </div>
                    </nav>
                    <!-- tab-content -->
@@ -446,15 +376,15 @@ Bukti Pembayaran
                             </div>
                             <!-- col-lg -->
                             <div class="col-lg-6">
-                               <h3>Daycare</h3>
-                               <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
+                               <h3>Area Bermain yang Aman</h3>
+                               <p>Area luar ruangan dengan rumput, pohon, dan taman bermain yang memungkinkan anak-anak untuk berlari, bermain, dan berinteraksi dengan alam.</p>
                                <ul class="custom pl-0">
-                                  <li>Over 30 Qualified professionals</li>
-                                  <li>We offer you our quality services since 2002</li>
-                                  <li>Educational activities in our daily plan</li>
+                                  <li>Mainan dan peralatan bermain yang bebas dari bahan berbahaya dan sesuai dengan usia anak.</li>
+                                  <li>Tempat yang mudah diawasi oleh guru atau pendamping untuk memastikan keselamatan anak-anak.</li>
+                                  
                                </ul>
                                <!-- Button -->	 
-                               <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
+                               <a href="services-single.html" class="btn btn-secondary mt-4">Daftar Sekarang</a>
                             </div>
                             <!-- /col-lg -->
                          </div>
@@ -464,15 +394,15 @@ Bukti Pembayaran
                       <div class="tab-pane" id="tab2" role="tabpanel" aria-labelledby="tab2-tab">
                          <div class="row">
                             <div class="col-lg-6">
-                               <h3>Summer Camp</h3>
-                               <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
+                               <h3>Ruang Terbuka</h3>
+                               <p>Ruangan yang selalu bersih dan rapi untuk memastikan kesehatan anak-anak.</p>
                                <ul class="custom pl-0">
-                                  <li>Over 30 Qualified professionals</li>
-                                  <li>We offer you our quality services since 2002</li>
-                                  <li>Educational activities in our daily plan</li>
+                                  <li>Fasilitas yang mudah diakses oleh semua anak, termasuk anak dengan kebutuhan khusus.</li>
+                                  <li>Mainan edukatif tempat bermain untuk anak dengan area dan fasilitas aman dan area yang selalu di jaga.</li>
+                                
                                </ul>
                                <!-- Button -->	 
-                               <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
+                               <a href="services-single.html" class="btn btn-secondary mt-4">Daftar Sekarang</a>
                             </div>
                             <!-- /col-lg -->
                             <div class="col-lg-6 res-margin">
@@ -496,15 +426,15 @@ Bukti Pembayaran
                             </div>
                             <!-- col-lg -->
                             <div class="col-lg-6">
-                               <h3>Infant Care</h3>
-                               <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
+                               <h3>Uks & Tempat Istirahat Anak</h3>
+                               <p>UKS adalah fasilitas yang disediakan di sekolah untuk memastikan kesehatan dan keselamatan anak-anak. Berikut adalah elemen-elemen penting yang seharusnya ada di UKS TK</p>
                                <ul class="custom pl-0">
-                                  <li>Over 30 Qualified professionals</li>
-                                  <li>We offer you our quality services since 2002</li>
-                                  <li>Educational activities in our daily plan</li>
+                                  <li>Seorang petugas kesehatan atau perawat yang terlatih dalam penanganan pertama dan kesehatan anak-anak.</li>
+                                  <li>Program bimbingan kesehatan untuk anak-anak, seperti mencuci tangan yang benar, sikat gigi, dan menjaga kebersihan diri.</li>
+                                  <li>Tempat tidur atau ranjang untuk anak yang sakit atau merasa tidak enak badan agar dapat beristirahat sementara menunggu dijemput oleh orang tua.</li>
                                </ul>
                                <!-- Button -->	 
-                               <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
+                               <a href="services-single.html" class="btn btn-secondary mt-4">Daftar Sekarang</a>
                             </div>
                             <!-- /col-lg -->
                          </div>
@@ -514,15 +444,16 @@ Bukti Pembayaran
                       <div class="tab-pane" id="tab4" role="tabpanel" aria-labelledby="tab4-tab">
                          <div class="row">
                             <div class="col-lg-6">
-                               <h3>Classes</h3>
-                               <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
+                               <h3>Ruang Kelas</h3>
+                               <p>Ruang kelas TK (Taman Kanak-Kanak) / Montessori Kindergarten
+                                 harus dirancang dengan mempertimbangkan kebutuhan fisik, kognitif, sosial, dan emosional anak-anak.</p>
                                <ul class="custom pl-0">
-                                  <li>Over 30 Qualified professionals</li>
-                                  <li>We offer you our quality services since 2002</li>
-                                  <li>Educational activities in our daily plan</li>
+                                  <li>Area yang luas dan terbuka dengan fleksibilitas untuk mengatur berbagai zona aktivitas.</li>
+                                  <li>Jendela besar untuk memungkinkan cahaya alami masuk, yang dapat meningkatkan suasana hati dan konsentrasi anak-anak.</li>
+                                  <li>Meja dan kursi kecil yang sesuai dengan ukuran anak-anak untuk aktivitas menulis, menggambar, dan membuat kerajinan.</li>
                                </ul>
                                <!-- Button -->	 
-                               <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
+                               <a href="services-single.html" class="btn btn-secondary mt-4">Daftar Sekarang</a>
                             </div>
                             <!-- /col-lg -->
                             <div class="col-lg-6 res-margin">
@@ -546,12 +477,12 @@ Bukti Pembayaran
                             </div>
                             <!-- col-lg -->
                             <div class="col-lg-6">
-                               <h3>Activities</h3>
-                               <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
+                               <h3>Ruang Aktivitas Anak</h3>
+                               <p>Ruang aktivitas di TK adalah area yang dirancang untuk mendukung berbagai jenis kegiatan anak-anak, baik yang bersifat edukatif, kreatif, maupun fisik. .</p>
                                <ul class="custom pl-0">
-                                  <li>Over 30 Qualified professionals</li>
-                                  <li>We offer you our quality services since 2002</li>
-                                  <li>Educational activities in our daily plan</li>
+                                  <li>Tempat untuk kegiatan seni dan kerajinan yang mengembangkan kreativitas dan keterampilan motorik halus anak.</li>
+                                  <li>Rak atau kotak untuk menyimpan bahan-bahan seni dan hasil karya anak.</li>
+                                  <li>Mainan edukatif seperti blok bangunan, puzzle, dan permainan peran.</li>
                                </ul>
                                <!-- Button -->	 
                                <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
@@ -572,72 +503,22 @@ Bukti Pembayaran
        </div>
        <!-- /container -->
     </section>
-    <!-- /section ends -->
-    <!-- Section  -->
-    <section id="counter-section" class="container-fluid counter-calltoaction bg-fixed overlay"  data-100-bottom="background-position: 50% 100px;"
-       data-top-bottom="background-position: 50% -100px;" >
-       <div id="counter" class="container">
-          <div  class="row col-lg-10 offset-lg-1">
-             <!-- Counter -->
-             <div class="col-xl-4 col-md-4">
-                <div class="counter">
-                   <div class="counter-wrapper bg-primary">
-                      <i class="counter-icon flaticon-teacher"></i>
-                      <!-- insert your final value on data-count= -->
-                      <div class="counter-value" data-count="30">0</div>
-                      <h3 class="title">Professionals</h3>
-                   </div>
-                </div>
-                <!-- /counter -->
-             </div>
-             <!-- /col-lg -->
-             <!-- Counter -->
-             <div class="col-xl-4 col-md-4">
-                <div class="counter">
-                   <div class="counter-wrapper bg-secondary">
-                      <i class="counter-icon  flaticon-family"></i>
-                      <!-- insert your final value on data-count= -->
-                      <div class="counter-value" data-count="74">0</div>
-                      <h3 class="title">Happy parents</h3>
-                   </div>
-                </div>
-                <!-- /counter -->
-             </div>
-             <!-- /col-lg -->
-             <!-- Counter -->
-             <div class="col-xl-4 col-md-4">
-                <div class="counter">
-                   <div class="counter-wrapper bg-tertiary">
-                      <i class="counter-icon flaticon-children"></i>
-                      <!-- insert your final value on data-count= -->
-                      <div class="counter-value" data-count="104">0</div>
-                      <h3 class="title">Students</h3>
-                   </div>
-                </div>
-                <!-- /counter -->
-             </div>
-             <!-- /col-lg -->		 
-          </div>
-          <!-- /row -->
-       </div>
-       <!-- /container -->
-    </section>
-    <!-- /section ends--><!-- section-->
+
     <section id="team-home" class="container">
        <!-- section heading -->  
        <div class="section-heading text-center">
-          <h2>Our Team</h2>
-          <p class="subtitle">Qualified Professionals</p>
+          <h2>Guru</h2>
+          <p class="subtitle">Guru Professionals</p>
        </div>
        <!-- /section-heading -->  
        <div class="row">
           <div class="col-lg-7">
-             <h3>Meet our Talented Team</h3>
-             <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+             <h3>Guru profesional TK-Kristen</h3>
+             <p>memainkan peran kunci dalam perkembangan awal anak-anak. Mereka tidak hanya mengajar, tetapi juga membimbing, mendukung, dan menciptakan lingkungan belajar yang positif. </p>
              <ul class="checkmark pl-0 font-weight-bold">
-                <li>Over 30 Qualified professionals</li>
-                <li>We offer you our quality services since 2002</li>
-                <li>Fun and educational activities in our daily plan</li>
+                <li>Kualifikasi dan Pendidikan</li>
+                <li>Pengetahuan dan Keterampilan</li>
+                <li>Kualitas Pribadi</li>
              </ul>
              <!-- /ul-->
           </div>
@@ -668,10 +549,10 @@ Bukti Pembayaran
                    <!-- /team_img -->
                    <div class="team-content">
                       <a href="team-single.html">
-                         <h5 class="title">Laura Smith</h5>
+                         <h5 class="title">Dra Sarje Kristiani</h5>
                       </a>
-                      <span class="post">Teacher</span>
-                      <p>Id fermentum augue, ut pellen tesque leo nas. Maecenas at arcu risus Donec com modo.</p>
+                      <span class="post">Kepala Sekolah & Guru</span>
+                     
                    </div>
                    <!-- /team-content -->
                 </div>
@@ -693,10 +574,10 @@ Bukti Pembayaran
                    <!-- /team_img -->
                    <div class="team-content">
                       <a href="team-single.html">
-                         <h5 class="title">John Doe</h5>
+                         <h5 class="title">Ms Iren</h5>
                       </a>
-                      <span class="post">Administrator</span>
-                      <p>Id fermentum augue, ut pellen tesque leo nas. Maecenas at arcu risus Donec com modo.</p>
+                      <span class="post">Guru Tk</span>
+                     
                    </div>
                    <!-- /team-content -->
                 </div>
@@ -718,10 +599,10 @@ Bukti Pembayaran
                    <!-- /team_img -->
                    <div class="team-content">
                       <a href="team-single.html">
-                         <h5 class="title">Meghan Smith</h5>
+                         <h5 class="title">Mr Yogi</h5>
                       </a>
-                      <span class="post">Assitant Teacher</span>
-                      <p>Id fermentum augue, ut pellen tesque leo nas. Maecenas at arcu risus Donec com modo.</p>
+                      <span class="post">Guru TK</span>
+                     
                    </div>
                    <!-- /team-content -->
                 </div>
@@ -743,38 +624,16 @@ Bukti Pembayaran
                    <!-- /team_img -->
                    <div class="team-content">
                       <a href="team-single.html">
-                         <h5 class="title">Mika Doe</h5>
+                         <h5 class="title">Ms. Sisil</h5>
                       </a>
-                      <span class="post">Teacher</span>
-                      <p>Id fermentum augue, ut pellen tesque leo nas. Maecenas at arcu risus Donec com modo.</p>
+                      <span class="post">Guru Tk</span>
+                      
                    </div>
                    <!-- /team-content -->
                 </div>
                 <!-- /team-style1 -->
                 <!-- Team member 5 -->
-                <div class="col-md-12 team-style1 notepad">
-                   <div class="team_img">
-                      <a href="team-single.html">
-                      <img src="img/team/team5.jpg" class="img-fluid" alt="">
-                      </a>
-                      <!-- social icons -->
-                      <ul class="social">
-                         <li><a href="#"><i class="fa fa-envelope"></i></a></li>
-                         <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                         <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                         <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                      </ul>
-                   </div>
-                   <!-- /team_img -->
-                   <div class="team-content">
-                      <a href="team-single.html">
-                         <h5 class="title">Jillian Smith</h5>
-                      </a>
-                      <span class="post">Asssitant Teacher</span>
-                      <p>Id fermentum augue, ut pellen tesque leo nas. Maecenas at arcu risus Donec com modo.</p>
-                   </div>
-                   <!-- /team-content -->
-                </div>
+                
                 <!-- /team-style1 -->
              </div>
              <!-- /owl-team--> 
@@ -799,10 +658,10 @@ Bukti Pembayaran
                 <a class="nav-link active" href="#" data-toggle="tab" data-filter="*">All</a>
              </li>
              <li class="nav-item">
-                <a class="nav-link" href="#" data-toggle="tab" data-filter=".school">Our School</a>
+                <a class="nav-link" href="#" data-toggle="tab" data-filter=".school">Sekolah</a>
              </li>
              <li class="nav-item">
-                <a class="nav-link" href="#" data-toggle="tab" data-filter=".activities">Activities</a>
+                <a class="nav-link" href="#" data-toggle="tab" data-filter=".activities">Kegiatan</a>
              </li>
           </ul>
           <!-- /ul -->
@@ -947,178 +806,15 @@ Bukti Pembayaran
     </section>
     <!-- /section ends -->
     <!-- section -->
-    <section id="blogprev-home" data-100-bottom="background-position: 0% 120%;"
-       data-top-bottom="background-position: 0% 100%;">
-       <div class="container">
-          <!-- section heading -->  
-          <div class="section-heading text-center">
-             <h2>Latest Blog Posts</h2>
-             <p class="subtitle">Our Updates</p>
-          </div>
-          <!-- /section-heading -->
-          <!-- blog carousel -->
-          <div class="carousel-3items owl-carousel owl-theme mt-0">
-             <!-- blog-box -->
-             <div class="blog-box">
-                <!-- image -->
-                <a href="blog-single.html">
-                   <div class="image"><img src="img/blog/blogstyle2-1.jpg" alt=""/></div>
-                </a>
-                <!-- blog-box-caption -->
-                <div class="blog-box-caption">
-                   <!-- date -->
-                   <div class="date"><span class="day">12</span><span class="month">May</span></div>
-                   <a href="blog-single.html">
-                      <h4>Helping Your Child with Socialization</h4>
-                   </a>
-                   <!-- /link -->
-                   <p>
-                      Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis...
-                   </p>
-                </div>
-                <!-- blog-box-footer -->
-                <div class="blog-box-footer">
-                   <div class="author">Posted by<a href="#"><i class="fas fa-user"></i>Lauren Smith</a></div>
-                   <div class="comments"><a href="blog-single.html"><i class="fas fa-comment"></i>23</a></div>
-                   <!-- Button -->	 
-                   <div class="text-center col-md-12">
-                      <a href="blog-single.html" class="btn btn-primary ">Read more</a>
-                   </div>
-                </div>
-                <!-- /blog-box-footer -->
-             </div>
-             <!-- /blog-box -->
-             <!-- blog-box -->
-             <div class="blog-box">
-                <!-- image -->
-                <a href="blog-single.html">
-                   <div class="image"><img src="img/blog/blogstyle2-2.jpg" alt=""/></div>
-                </a>
-                <!-- blog-box-caption -->
-                <div class="blog-box-caption">
-                   <!-- date -->
-                   <div class="date"><span class="day">28</span><span class="month">June</span></div>
-                   <a href="blog-single.html">
-                      <h4>Our Healthy meals that toddlers love</h4>
-                   </a>
-                   <!-- /link -->
-                   <p>
-                      Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis...
-                   </p>
-                </div>
-                <!-- blog-box-footer -->
-                <div class="blog-box-footer">
-                   <div class="author">Posted by<a href="#"><i class="fas fa-user"></i>Jonas Doe</a></div>
-                   <div class="comments"><a href="blog-single.html"><i class="fas fa-comment"></i>5</a></div>
-                   <!-- Button -->	 
-                   <div class="text-center col-md-12">
-                      <a href="blog-single.html" class="btn btn-primary ">Read more</a>
-                   </div>
-                </div>
-                <!-- /blog-box-footer -->
-             </div>
-             <!-- /blog-box -->
-             <!-- blog-box -->
-             <div class="blog-box">
-                <!-- image -->
-                <a href="blog-single.html">
-                   <div class="image"><img src="img/blog/blogstyle2-3.jpg" alt=""/></div>
-                </a>
-                <!-- blog-box-caption -->
-                <div class="blog-box-caption">
-                   <!-- date -->
-                   <div class="date"><span class="day">02</span><span class="month">July</span></div>
-                   <a href="blog-single.html">
-                      <h4>20 Fun Activities to Do With Your Kids</h4>
-                   </a>
-                   <!-- /link -->
-                   <p>
-                      Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis...
-                   </p>
-                </div>
-                <!-- blog-box-footer -->
-                <div class="blog-box-footer">
-                   <div class="author">Posted by<a href="#"><i class="fas fa-user"></i>Lauren Smith</a></div>
-                   <div class="comments"><a href="blog-single.html"><i class="fas fa-comment"></i>10</a></div>
-                   <!-- Button -->	 
-                   <div class="text-center col-md-12">
-                      <a href="blog-single.html" class="btn btn-primary ">Read more</a>
-                   </div>
-                </div>
-                <!-- /blog-box-footer -->
-             </div>
-             <!-- /blog-box -->
-             <!-- blog-box -->
-             <div class="blog-box">
-                <!-- image -->
-                <a href="blog-single.html">
-                   <div class="image"><img src="img/blog/blogstyle2-4.jpg" alt=""/></div>
-                </a>
-                <!-- blog-box-caption -->
-                <div class="blog-box-caption">
-                   <!-- date -->
-                   <div class="date"><span class="day">18</span><span class="month">June</span></div>
-                   <a href="blog-single.html">
-                      <h4>Brain-Boosting Activities for Children</h4>
-                   </a>
-                   <!-- /link -->
-                   <p>
-                      Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis...
-                   </p>
-                </div>
-                <!-- blog-box-footer -->
-                <div class="blog-box-footer">
-                   <div class="author">Posted by<a href="#"><i class="fas fa-user"></i>Jonas Doe</a></div>
-                   <div class="comments"><a href="blog-single.html"><i class="fas fa-comment"></i>11</a></div>
-                   <!-- Button -->	 
-                   <div class="text-center col-md-12">
-                      <a href="blog-single.html" class="btn btn-primary ">Read more</a>
-                   </div>
-                </div>
-                <!-- /blog-box-footer -->
-             </div>
-             <!-- /blog-box -->
-          </div>
-          <!-- /owl-carousel -->
-       </div>
-       <!-- /container -->
-    </section>
-    <!-- /section ends-->
-    <!-- section -->		   
-    <section id="callout" class=" container-fluid bg-fixed">
-       <div class="container">
-          <!-- row -->
-          <div class="row">
-             <div class="col-lg-6 p-0" data-start="right: 50%;" 
-                data-center="right:-5%;">
-                <!-- image  -->
-                <img src="img/call-to-action/calltoactionbg.jpg" class="img-fluid img-rounded" alt="">
-             </div>
-             <!-- text box  -->
-             <div class="col-lg-6 bg-secondary p-5 justify-content-center align-self-center"  data-start="left: 50%;" 
-                data-center="left:-5%;">
-                <div class="text-light justify-content-center align-self-center">
-                   <h3>Enroll Today</h3>
-                   <p>Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus vi tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
-                   <a href="contact.html" class="btn btn-tertiary">Contact us</a>
-                </div>
-                <!-- /text-light  -->
-             </div>
-             <!-- /col-lg  -->
-          </div>
-          <!-- /row -->
-       </div>
-       <!-- /container -->
-    </section>
-    <!-- /section ends -->
-    <!-- Section -->
+   
+
     <section id="contact-home" class="container">
        <div class="row">
           <div class="col-lg-10 offset-lg-1 text-center">
              <!-- section heading -->  
              <div class="section-heading text-center">
-                <h2>Contact Us</h2>
-                <p class="subtitle">Get in Touch</p>
+                <h2>Kontak Kami</h2>
+               
              </div>
              <!-- /section-heading -->  
              <!-- contact info boxes start-->
@@ -1130,8 +826,8 @@ Bukti Pembayaran
                          <i class="fa fa-envelope top-icon"></i>
                          <!-- contact-icon info-->
                          <div class="contact-icon-info">
-                            <h5>Write us</h5>
-                            <p><a href="mailto:email@yoursite.com">email@yoursite.com</a></p>
+                            <h5>Alamat Email</h5>
+                            <p><a href="mailto:email@yoursite.com">sekretariat@pirngadi.sch.id</a></p>
                          </div>
                       </div>
                       <!-- /contact-icon-->
@@ -1143,8 +839,8 @@ Bukti Pembayaran
                          <i class="fa fa-map-marker top-icon"></i>
                          <!-- contact-icon info-->
                          <div class="contact-icon-info">
-                            <h5>Visit us</h5>
-                            <p>Street Name 123 - New York</p>
+                            <h5>Alamat</h5>
+                            <p>Jl.Pirngadi  No 4- 6 - Surabaya</p>
                          </div>
                       </div>
                       <!-- /contact-icon-->
@@ -1156,8 +852,8 @@ Bukti Pembayaran
                          <i class="fa fa-phone top-icon"></i>
                          <!-- contact-icon info-->
                          <div class="contact-icon-info">
-                            <h5>Call us</h5>
-                            <p>(123) 456-789</p>
+                            <h5>Telepon</h5>
+                            <p>+62 811-3400-986</p>
                          </div>
                       </div>
                       <!-- /contact-icon-->

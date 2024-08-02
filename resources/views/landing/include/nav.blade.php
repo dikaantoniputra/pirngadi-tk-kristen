@@ -23,8 +23,8 @@
                    </li>
                    <!-- menu item -->
                    <li class="nav-item dropdown">
-                      <a class="nav-link" href="/tk-kristen-pirngadi-layanan" >
-                      Layanan
+                      <a class="nav-link" href="/tk-kristen-pirngadi-fasilitas" >
+                      Fasilitas
                       </a>
                      
                    </li>
@@ -36,7 +36,7 @@
                       <div class="dropdown-menu" aria-labelledby="about-dropdown">
                          <a class="dropdown-item" href="/tk-kristen-pirngadi-about">Tentang Kami</a>
                          <a class="dropdown-item" href="/tk-kristen-pirngadi-guru">Guru Professional</a>
-                         <a class="dropdown-item" href="/tk-kristen-pirngadi-spp">Daftar Ulang & SPP</a>
+                         {{-- <a class="dropdown-item" href="/tk-kristen-pirngadi-spp">Daftar Ulang & SPP</a> --}}
                       </div>
                    </li>
                    <!-- menu item -->

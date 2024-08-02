@@ -34,7 +34,7 @@ Bukti Pembayaran
        <div class="row">
           <div class="col-lg-6 text-center offset-lg-3 mb-5">
              <h2>Our Photo Gallery</h2>
-             <p>In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
+             <p>Abadikan Momen dengan Montessori Kindergarten</p>
           </div>
           <!-- /col-lg -->
        </div>

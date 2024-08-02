@@ -11,243 +11,119 @@ Bukti Pembayaran
 @section('content')
 <div id="page-wrapper">
     <!-- Jumbotron -->
-    <div class="jumbotron jumbotron-fluid">
-       <div class="container" >
-          <!-- jumbo-heading -->
-          <div class="jumbo-heading" data-aos="fade-down">
-             <h1>About us</h1>
-             <!-- Breadcrumbs -->
-             <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                   <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                   <li class="breadcrumb-item active" aria-current="page">About us</li>
-                </ol>
-             </nav>
-             <!-- /breadcrumb -->
-          </div>
-          <!-- /jumbo-heading -->
-       </div>
-       <!-- /container -->
-    </div>
-    <!-- /jumbotron -->
-    <!-- ==== Page Content ==== -->
-    <div class="page container">
-       <div class="row">
-          <!-- page with sidebar starts -->
-          <div class="col-lg-9 page-with-sidebar">
-             <div class="container">
-                <!-- row -->
-                <div class="row">
-                   <div class="col-lg-6 ">
-                      <h2>Our Mission</h2>
-                      <span class="h7 mt-2">We provide high quality daycare services</span>
-                      <p class="mt-4 res-margin">Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                      <p>Nec elementum ipsum convall Maecenas at arcu risus scelerisque laoree.</p>
-                   </div>
-                   <!-- /col-lg-->
-                   <div class="col-lg-6 ">
-                      <!-- image -->
-                      <img class="img-fluid rounded" src="img/about/about2.jpg" alt="">
-                      <!-- ornament starts-->
-                      <div class="ornament-rainbow" data-aos="zoom-out"></div>
-                   </div>
-                   <!-- /col-lg -->
-                </div>
-                <!-- /row -->
-                <h3 class="mt-5">Our Features</h3>
-                <p>Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                <!-- row -->
-                <div class="row">
-                   <div class="carousel-2items card bg-light owl-carousel owl-theme">
-                      <!-- feature -->
-                      <div class="feature-with-icon">
-                         <div class="icon-features">
-                            <!-- icon -->
-                            <i class="flaticon-maternity text-primary"></i>
-                         </div>
-                         <h5>Safe Enviroment</h5>
-                         <p>Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Etiam rhoncus leo a dolor placerat, nec elem entum ipsum convall.</p>
-                      </div>
-                      <!-- /feature-with-icon-->
-                      <!-- feature -->
-                      <div class="feature-with-icon">
-                         <div class="icon-features">
-                            <!-- icon -->
-                            <i class="flaticon-open-book-1 text-secondary"></i>
-                         </div>
-                         <h5>Educational activities</h5>
-                         <p>Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Etiam rhoncus leo a dolor placerat, nec elem entum ipsum convall.</p>
-                      </div>
-                      <!-- /feature-with-icon-->
-                      <!-- feature -->
-                      <div class="feature-with-icon">
-                         <div class="icon-features">
-                            <!-- icon -->
-                            <i class="flaticon-classroom-1 text-primary"></i>
-                         </div>
-                         <h5>Qualified teachers</h5>
-                         <p>Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Etiam rhoncus leo a dolor placerat, nec elem entum ipsum convall.</p>
-                      </div>
-                      <!-- /feature-with-icon-->
-                      <!-- feature -->
-                      <div class="feature-with-icon">
-                         <div class="icon-features">
-                            <!-- icon -->
-                            <i class="flaticon-baby-boy text-tertiary"></i>
-                         </div>
-                         <h5>Infant care</h5>
-                         <p>Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Etiam rhoncus leo a dolor placerat, nec elem entum ipsum convall.</p>
-                      </div>
-                      <!-- /feature-with-icon-->
-                   </div>
-                   <!-- /carousel-->
-                </div>
-                <!-- /row -->
-                <h3 class="mt-5">What parents say</h3>
-                <p>Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                <!-- divider -->
-                <div class="row mt-5 ">
-                   <!-- testimonials -->
-                   <!-- testimonial carousel -->
-                   <div class="carousel-2items owl-carousel owl-theme col-md-12">
-                      <!-- testimonial -->
-                      <div class="testimonial">
-                         <div class="content">
-                            <p class="description">
-                               Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.                        
-                            </p>
-                         </div>
-                         <!-- /content -->
-                         <div class="testimonial-pic">
-                            <img src="img/team/team1.jpg" class="img-fluid" alt="">
-                         </div>
-                         <!-- /testimonial-pic -->
-                         <div class="testimonial-review">
-                            <h5 class="testimonial-title">Lucianna Smith</h5>
-                            <span class="post">Teacher</span>
-                         </div>
-                         <!-- /testimonial-review -->
-                      </div>
-                      <!-- /testimonial -->
-                      <!-- testimonial -->
-                      <div class="testimonial">
-                         <div class="content">
-                            <p class="description">
-                               Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.                        
-                            </p>
-                         </div>
-                         <!-- /content -->
-                         <div class="testimonial-pic">
-                            <img src="img/team/team2.jpg" class="img-fluid" alt="">
-                         </div>
-                         <!-- /testimonial-pic -->
-                         <div class="testimonial-review">
-                            <h5 class="testimonial-title">John Sadana</h5>
-                            <span class="post">Doctor</span>
-                         </div>
-                         <!-- /testimonial-review -->
-                      </div>
-                      <!-- /testimonial -->
-                      <!-- testimonial -->
-                      <div class="testimonial">
-                         <div class="content">
-                            <p class="description">
-                               Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.                        
-                            </p>
-                         </div>
-                         <!-- /content -->
-                         <div class="testimonial-pic">
-                            <img src="img/team/team3.jpg" class="img-fluid" alt="">
-                         </div>
-                         <!-- /testimonial-pic -->
-                         <div class="testimonial-review">
-                            <h5 class="testimonial-title">Jane Janeth</h5>
-                            <span class="post">Librarian</span>
-                         </div>
-                         <!-- /testimonial-review -->
-                      </div>
-                      <!-- /testimonial -->
-                   </div>
-                   <!-- /owl-testimonial -->            
-                </div>
-                <!-- /row -->
-                <div class="mt-5">
-                   <!-- call to action -->	
-                   <div class="enroll-calltoaction col-md-12 card bg-tertiary text-light no-bg-small">
-                      <div class="text-center p-3">
-                         <div class="col-lg-8 offset-lg-4">
-                            <h4>Join our daycare</h4>
-                            <p>Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id lorem ipsuet.</p>
-                            <!-- Button -->	
-                            <div class="text-center">
-                               <a href="contact.html" class="btn btn-primary mt-2">Enroll today</a>
-                            </div>
-                            <!-- /text-center -->	
-                         </div>
-                         <!-- /col-md-8 -->	
-                      </div>
-                      <!-- /text-center -->	
-                   </div>
-                   <!-- /calltoaction -->            
-                </div>
-                <!-- /mt-5 -->
-             </div>
-             <!-- /container -->
-          </div>
-          <!-- /page-with-sidebar -->
-          <!-- ==== Sidebar ==== -->
-          <div id="sidebar" class="h-50 col-lg-3 sticky-top">
-             <!--widget-area -->
-             <div class="widget-area notepad">
-                <h5 class="sidebar-header">Meet our Team</h5>
-                <!-- widget -->		 
-                <div class="widget2">
-                   <div class="card">
-                      <div class="card-img">
-                         <!-- image  -->	
-                         <a href="team.html">
-                         <img class="rounded card-img-top" src="img/about/aboutsidebar.jpg" alt="" >
-                         </a>
-                      </div>
-                      <div class="card-body">
-                         <!--  info -->	
-                         <a href="team.html" class="text-center">
-                            <p><strong>Over 30 Certified professionals</strong></p>
-                         </a>
-                         <!-- button -->	
-                         <a href="team.html" class="btn btn-secondary btn-block btn-sm">See More</a>
-                      </div>
-                      <!--/card-body -->	
-                   </div>
-                   <!-- /card -->	
-                </div>
-                <!--/widget2 -->
-             </div>
-             <!--/widget-area -->
-             <div class="widget-area notepad">
-                <h5 class="sidebar-header">Our Mission</h5>
-                <p>Aliquam erat volutpat In id fermentum augue Mae cenas at arcu risus. Donec com modo sodales ex.</p>
-             </div>
-             <!--/widget-area -->
-             <div class="widget-area notepad">
-                <h5 class="sidebar-header">Follow us</h5>
-                <div class="contact-icon-info">
-                   <ul class="social-media text-center">
-                      <!--social icons -->
-                      <li><a href="#"><i class="fab fa-facebook-square"></i></a></li>
-                      <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                      <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                   </ul>
-                </div>
-                <!--/contact-icon-info -->
-             </div>
-             <!--/widget-area -->
-          </div>
-          <!--/sidebar -->   
-       </div>
-       <!-- /row -->
-    </div>
+    <section id="about-home" class="container-fluid pb-0">
+      <div class="container">
+         <!-- section heading -->  
+         <div class="section-heading text-center">
+            <h2>Tentang Kami</h2>
+            <p class="subtitle">Yuk Kenal Kami</p>
+         </div>
+         <!-- /section-heading -->
+         <div class="row">
+            <div class="col-lg-7 ">
+               <h3>SEJARAH SINGKAT </h3>
+               <P>Pada tanggal 1 Agustus 1957, berdirilah Taman Kanak-kanak Kristen Pirngadi (Montessori Kindergarten), sebuah lembaga pendidikan yang didirikan dengan tujuan mulia untuk memberikan pendidikan dasar yang berkualitas bagi anak-anak. Sejak awal pendiriannya, TK Kristen Pirngadi (Montessori Kindergarten) telah berkomitmen untuk menanamkan nilai-nilai keagamaan, moral, dan akademis yang kuat, membentuk fondasi kokoh bagi perkembangan karakter dan pengetahuan anak-anak didiknya. Dengan semangat dan dedikasi yang tinggi dari para pendidik dan staf, TK Kristen Pirngadi terus berusaha menciptakan lingkungan belajar yang menyenangkan dan inspiratif, sehingga setiap anak dapat tumbuh dan berkembang dengan optimal.</P>
+               <a href="contact.html" class="btn btn-secondary ">Kontak Kami</a>
+            </div>
+            <!-- /col-lg -->
+            <div class="col-lg-5 res-margin">
+               <!-- image -->
+               <img class="img-fluid rounded" src="img/about/about2.jpg" alt="">
+               <!-- ornament starts-->
+               <div class="ornament-rainbow" data-aos="zoom-out"></div>
+            </div>
+            <!-- /col-lg -->
+         </div>
+         
+      </div>
+      <!-- /container-->
+      <!-- whale in water scene -->
+      <!-- whale -->
+      <img src="img/ornaments/whale.png" class="floating-whale" alt="">
+      <!-- waves -->
+      <div class="waveHorizontals">
+         <div id="waveHorizontal1" class="waveHorizontal"></div>
+         <div id="waveHorizontal2" class="waveHorizontal"></div>
+         <div id="waveHorizontal3" class="waveHorizontal"></div>
+      </div>
+      <!-- sea -->
+      <div class="sea"></div>
+      <!--/ whale in water scene ends -->
+   </section>
+   <!-- /section ends -->
+   <!-- section --> 
+   <section id="features" class="bg-secondary text-light">
+      <div class="container">
+         <!-- section heading -->  
+         <div class="section-heading text-center">
+            <h2>TK KRISTEN PIRNGADI</h2>
+            <p class="subtitle">PROFESIONAL</p>
+         </div>
+         <!-- /section-heading -->
+         <!-- features -->
+         <div class="row ">
+            <div class="col-lg-8">
+               <div class="row ">
+                  <div class="col-md-6 col-lg-6">
+                     <!-- feature -->
+                     <div class="feature-with-icon">
+                        <div class="icon-features">
+                           <!-- icon -->
+                           <i class="flaticon-maternity text-primary"></i>
+                        </div>
+                        <h5>Lingkungan yang Aman</h5>
+                        <p>
+                          Lingkungan aman di taman kanak-kanak dapat belajar dan bermain tanpa merasa takut atau terancam. </p>
+                     </div>
+                     <!-- /feature-with-icon-->
+                     <!-- feature -->
+                     <div class="feature-with-icon mt-5">
+                        <div class="icon-features">
+                           <!-- icon -->
+                           <i class="flaticon-open-book-1 text-primary"></i>
+                        </div>
+                        <h5>Kegiatan pendidikan  montesori</h5>
+                        <p>Kegiatan pendidikan Montessori adalah serangkaian aktivitas yang dirancang untuk mendukung perkembangan holistik anak, mencakup aspek kognitif, sosial, emosional, dan fisik. </p>
+                     </div>
+                     <!-- /feature-with-icon-->
+                  </div>
+                  <div class="col-md-6 col-lg-6">
+                     <!-- feature -->
+                     <div class="feature-with-icon">
+                        <div class="icon-features">
+                           <!-- icon -->
+                           <i class="flaticon-classroom-1 text-primary"></i>
+                        </div>
+                        <h5>Guru yang berkualifikasi</h5>
+                        <p>Guru yang berkualifikasi adalah pilar utama dalam dunia pendidikan, terutama di tingkat dasar dan menengah. </p>
+                     </div>
+                     <!-- /feature-with-icon-->
+                     <!-- feature -->
+                     <div class="feature-with-icon mt-5">
+                        <div class="icon-features">
+                           <!-- icon -->
+                           <i class="flaticon-baby-boy text-primary"></i>
+                        </div>
+                        <h5>Perawatan Anak</h5>
+                        <p>memastikan bahwa anak-anak tumbuh dan berkembang dalam lingkungan yang sehat, aman, dan mendukung. </p>
+                     </div>
+                     <!-- /feature-with-icon-->
+                  </div>
+                  <!-- /col-l -->
+               </div>
+               <!-- /row-->
+            </div>
+            <!-- /col-l -->
+            <div class="col-lg-4 features-bg">
+               <!-- image -->
+               <img src="img/features.png" alt="" class="img-fluid"  data-aos="zoom-out"   data-aos-delay="300"/>
+            </div>
+            <!-- /col-l -->
+         </div>
+         <!-- /row -->
+      </div>
+      <!-- /container -->
+   </section>
     <!-- /page -->
  </div>
 
