@@ -14,6 +14,10 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+    return view('landing.page.maintaice');
+});
+
+Route::get('/index', function () {
     return view('landing.page.index');
 });
 
